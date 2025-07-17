@@ -1,5 +1,8 @@
+tensorflow-cpu==2.9.1
+pandas
 streamlit
-tensorflow
 numpy
-Pillow
 matplotlib
+scikit-learn
+opencv-python
+Pillow
